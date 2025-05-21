@@ -6,8 +6,9 @@ I'm a passionate **Backend Engineer** with a knack for transforming ideas into s
 ## 🌱 Tech Stack
 - **Programming Languages**: Python, Go
 - **DevOps & Automation Tools**: Docker, Github Actions, Github Copilot 
-- **Cloud & Infrastructure**: Kubernetes (k8s), Azure
-- **Database & Data Processing**: SQL, PostgreSQL, SQLite, Databricks, Apache Spark, Dask
+- **Cloud & Infrastructure**: Kubernetes, Docker Compose, Azure
+- **Database & Data Processing**: SQL, NoSQL, PostgreSQL, MongoDB, SQLite, Databricks, Apache Spark, Dask, Redis
+- **Message Queues**: RabbitMQ, Kafka
 - **Monitoring & Quality Assurance**: SonarQube, Datadog
 - **Testing Tools**: Postman, Client, Bruno
 
