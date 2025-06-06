@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Stephen Dsouza  
 
 ## 🚀 About Me
-I'm a passionate **Backend Engineer** with a knack for transforming ideas into scalable and reliable products that deliver real value. I specialize in **Python** and **Go**, and I’m always on the lookout for opportunities to learn and grow.
+Engineer at heart who loves building fast, reliable, and scalable backend systems. I work mostly with Python and Go, and I’m especially drawn to clean APIs, data-driven products, and learning from great teams. Driven by curiosity, quality, and meaningful impact.
 
 ## 🌱 Tech Stack
 - **Programming Languages**: Python, Go
