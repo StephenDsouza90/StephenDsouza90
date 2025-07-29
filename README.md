@@ -5,6 +5,7 @@ Engineer at heart who loves building fast, reliable, and scalable backend system
 
 ## 🌱 Tech Stack
 - **Programming Languages**: Python, Go
+- **AI**: RAG, Agentic
 - **DevOps & Automation Tools**: Docker, Github Actions, Github Copilot 
 - **Cloud & Infrastructure**: Kubernetes, Docker Compose, Azure
 - **Database & Data Processing**: SQL, NoSQL, PostgreSQL, MongoDB, SQLite, Databricks, Apache Spark, Dask, Redis
